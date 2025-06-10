@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Truth Trackerz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Truth Trackerz</h1>
+    <p>A youth-led digital literacy movement for Gen Z</p>
+  </header>
+
+  <section>
+    <h2>What We Do</h2>
+    <p>Truth Trackerz equips Gen Z students with critical thinking skills to identify disinformation, resist online manipulation, and navigate today’s complex information environment.</p>
+  </section>
+
+  <section>
+    <h2>Join the Movement</h2>
+    <p>We're building a new generation of digital citizens. Stay tuned!</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Truth Trackerz</p>
+  </footer>
+</body>
+</html>
